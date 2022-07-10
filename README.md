@@ -11,7 +11,7 @@ Puedes juegar en http://esisejuega.fba.unlp.edu.ar/
 - MySql
 - PHP
 
-#Imágenes
+# Imágenes
 
 ![💻  Macbook-1](https://user-images.githubusercontent.com/80553375/178129024-393dace8-69e3-401b-92ee-504b9b6935e8.png)
 ![💻  Macbook-2](https://user-images.githubusercontent.com/80553375/178129025-59b017d0-d7b0-447f-8dff-be4b2a1ac475.png)
